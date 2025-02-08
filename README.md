@@ -1,2 +1,2 @@
 # Fibonacci
-Rust code to calculate fibonacci numbers, purely for fun
+Rust code to calculate fibonacci numbers, purely for fun!
